@@ -24,8 +24,8 @@ Pedagogical project structured upon the API Methodology for teaching and learnin
 ## Team
 |    Function     | Name                                 |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Leonardo Alves        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-canuto-746944291) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoCanuto01)              |
-| Scrum Master  | Matheus Alexandre |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stela-l%C3%BAcio-4849ab289 ) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Stela-Lucio)     |   
+| Product Owner |   Leonardo Alves        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rocha-alves-921617306/)            |
+| Scrum Master  | Matheus Alexandre |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alexxandre/)    |   
 
 ## Project Objective
 This project seeks to conduct a comprehensive analysis of port data covering the years 2020 to 2024, with a particular focus on evaluating logistical efficiency. The study aims to identify the main causes of operational stoppages, measure cargo flows, determine the most relevant countries involved in trade, and classify the predominant types of cargo. In addition, a comparative assessment of ports will be carried out by applying the DEA (Data Envelopment Analysis) methodology to determine those with the highest levels of relative efficiency. In this way, the research intends not only to broaden the academic understanding of the topic but also to provide strategic insights for the optimization of processes within the port sector.
@@ -33,10 +33,11 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 
 ## Technologies Applied
 
-* Jira Software
+* Click Up Software
 * Power BI
 * Microsoft Excel
 * Python (Colab)
+* MySQL
 * Canva
 
 
