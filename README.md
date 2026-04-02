@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Port operation (1)" src="https://github.com/user-attachments/assets/e431e82d-c856-42a5-9fab-c32c299af89b" />
+<img width="2048" height="512" alt="Design sem nome" src="https://github.com/user-attachments/assets/1997f0dc-deff-4cdc-874a-ccc03825c54a" />
+
 
 
 ## Who we are?
