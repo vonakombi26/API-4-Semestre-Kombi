@@ -3,9 +3,9 @@
 
 ## Who we are?
 
-*"Connecting the World!"* 
+*"Sic Parvis Magna!"* 
 
-Welcome VôNa Kombi, where we connect the world with intelligent and agile logistics solutions. Our mission as a group of students is to integrate technology and planning to efficiently and safely meet the needs of each client. With an innovative approach, we transform the routing sector, driving global mobility with precision and excellence.
+Welcome to VôNa Kombi, where we connect the world with intelligent and agile logistics solutions. Our mission as a group of students is to integrate technology and planning to efficiently and safely meet the needs of each client. With an innovative approach, we transform the routing sector, driving global mobility with precision and excellence.
 
 
 ## Index
@@ -45,7 +45,7 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 
 | Rank | Priority | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | High      | As an analyst, I will collect and filter data from 2020 to 2024 to ensure the information is ready for future analysis                                  | 4         | 1      |
+| 1    | High      | As an analyst, I will collect and filter data from 2024 to 2025 to ensure the information is ready for future analysis                                  | 4         | 1      |
 | 2    |Low         | As an analyst, I will select specific products for deep data analysis                                                                                  | 2          | 1      |
 | 3    | High       | As an analyst, I want to visualize the main reasons for operational stoppages to identify the major factors that impact productivity                   | 8       | 2      |
 | 4    | High       | As an analyst, I want to visualize how many port operations are performed per month at each port to understand the volume of operational activities    | 3          | 2      |
@@ -58,9 +58,9 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 
 | Sprint            | Forecast   | Status   | Historical |
 |-------------------|------------|----------|-----------|
-| 01                | 03/10/2025 | completed  | [MVP](MVP/sp1.md)  |
-| 02                | 31/10/2025  | completed  | [MVP](MVP/sp2.md)  |
-| 03                | 28/11/2025 | completed | [MVP](MVP/sp3.md)  |
-| Solutions Fair| 04/12/2025 | completed  | [MVP](MVP/Solutionsfair.md)  |
+| 01                | 24/04/2026 | pending  | [MVP](MVP/sp1.md)  |
+| 02                | 15/05/2026  | pending  | [MVP](MVP/sp2.md)  |
+| 03                | 05/06/2026 | pending | [MVP](MVP/sp3.md)  |
+| Solutions Fair| 18/06/2026 | pending  | [MVP](MVP/Solutionsfair.md)  |
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3379b7&height=120&section=footer"/>
