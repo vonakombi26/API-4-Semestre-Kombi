@@ -5,7 +5,7 @@
 
 *"Sic Parvis Magna!"* 
 
-Welcome to VôNa Kombi, where we connect the world with intelligent and agile logistics solutions. Our mission as a group of students is to integrate technology and planning to efficiently and safely meet the needs of each client. With an innovative approach, we transform the routing sector, driving global mobility with precision and excellence.
+Welcome to VôNa Kombi, where we use technology for smart and agile logistics solutions. Our mission, as a group of students, is to integrate technology and planning to efficiently and safely meet the needs of the semester's project. With an innovative approach, we transform the port sector, driving global mobility with precision and excellence.
 
 
 ## Index
@@ -45,12 +45,12 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 
 | Rank | Priority | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | High      | As an analyst, I will collect and filter data from 2024 to 2025 to ensure the information is ready for future analysis                                  | 4         | 1      |
-| 2    |Low         | As an analyst, I will select specific products for deep data analysis                                                                                  | 2          | 1      |
-| 3    | High       | As an analyst, I want to visualize the main reasons for operational stoppages to identify the major factors that impact productivity                   | 8       | 2      |
-| 4    | High       | As an analyst, I want to visualize how many port operations are performed per month at each port to understand the volume of operational activities    | 3          | 2      |
-| 5  | High      | As an analyst, I will use the DEA model to measure the efficiency of ports                                                                                | 9      | 3   |
-|6  | Medium      | As an analyst, I will evaluate operation times, focusing on locating which ports have longer waiting times and which are more agile in operation     | 10         | 3      |
+| 1    | High      | As a logistics analyst, I want the data from the Waterway Statistical Portal to be cleaned and normalized via Python (Colab) to ensure the reliability of future analyses in PowerBI.                                  | 4         | 1      |
+| 2    |Low         | As an analyst, I will select specific products for in-depth data analysis.                                                                                  | 2          | 1      |
+| 3    | High       | As a port manager, I want to view a dashboard in PowerBI that presents port operation times to identify bottlenecks and process delays.                   | 8       | 2      |
+| 4    | High       | As a decision-maker, I want to compare the efficiency between different operating terminals to direct investments and operational improvements.    | 3          | 2      |
+| 5  | High      | As an operations analyst, I want to view the main recorded reasons for operation halts to develop preventive action plans.                                                                                | 9      | 3   |
+|6  | Medium      | As a system user, I want an intuitive navigation interface with few clicks to access ANTAQ statistics in an agile manner.     | 10         | 3      |
 
 
   
