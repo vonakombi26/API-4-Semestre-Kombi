@@ -1,4 +1,4 @@
-# 📈 MVP SPRINT 1 - Port Operations Analysis
+# 📈 MVP SPRINT 2 - Port Operations Analysis
 
 ## 🎯 Objective of MVP
 - *What problem does it solve?*
