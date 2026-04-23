@@ -9,10 +9,10 @@ Welcome to VôNa Kombi, where we use technology for smart and agile logistics so
 
 
 ## Index
-* [Project (API)](#Project-(API))
+* [Project (API)](#Project(API))
 * [Team](#Team)
-* [Project Objective](Project-Objective)
-* [Technologies Applied](Technologies-Applied)
+* [Project Objective](ProjectObjective)
+* [Technologies Applied](TechnologiesApplied)
 * [Product Backlog](#Product-Backlog)
 * [Sprint Log](#Sprint-Log)
 
