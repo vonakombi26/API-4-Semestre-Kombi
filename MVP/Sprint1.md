@@ -56,7 +56,8 @@ The interface focuses on four main pillars of data as seen in the prototype:
 
 > The slide provides the project introduction, outlines the activities undertaken during the first sprint, presents the initial data collected, and includes the preliminary draft of the dashboard under development.
 
-[Click here](https://github.com/user-attachments/files/22686384/Sprint1_presentation.pdf)
+[Click here](https://github.com/user-attachments/files/27028326/VoNa.Kombi.pdf)
+
 
   
 #### Initial code developed
