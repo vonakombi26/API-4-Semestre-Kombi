@@ -61,6 +61,6 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 | 01                | 24/04/2026 | completed  | [MVP](MVP/Sprint1.md)  |
 | 02                | 15/05/2026  | pending  | [MVP](MVP/sp2.md)  |
 | 03                | 05/06/2026 | pending | [MVP](MVP/sp3.md)  |
-| Solutions Fair| 18/06/2026 | pending  | [MVP](MVP/Solutionsfair.md)  |
+| Solutions Fair| 25/06/2026 | pending  | [MVP](MVP/Solutionsfair.md)  |
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=151515&section=footer&reversal=false&fontColor=black%20"/>
