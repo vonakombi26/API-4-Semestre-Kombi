@@ -58,6 +58,8 @@ The interface focuses on four main pillars of data as seen in the prototype:
 
 [Click here](https://drive.google.com/file/d/1tPun_kxk1yJiMd4ppksv5IPN5MOMIdbB/view?usp=drive_link)
 
+[Power BI](https://drive.google.com/file/d/1T9NQE5uoDWT_AnvQ2S9DIT4icvfWCMVU/view?usp=drive_link)
+
   
 #### Initial code developed
 
