@@ -55,7 +55,7 @@ Limitations:
 ---
 
 ## 📊 Key Indicators (Visualized in Dashboard)
-| ID  | Indicators                                                                | metrics |
+| ID  | Indicators                                                                | Metrics |
 |-----|-----------------------------------------------------------------------------|------------|
 | Overview | Total Registered Stops:       | 453 Mil      |
 | Overview | Cargo Natures Tracked:  | 4     | 
