@@ -3,25 +3,44 @@
 ## 🎯 Objective of MVP
 - *What problem does it solve?*
 
-The MVP presents a consolidated view of port movements from the 2024 to 2025, converting raw data into strategic indicators such as total volume, operational efficiency, and geographic distribution.
+The MVP for Sprint 3 focuses on delivering the first fully functional version of the port operations dashboard, integrating all analyses developed so far. In this stage, the goal is to provide the client with a clear, interactive environment to explore logistics behavior, port performance, and cargo dynamics between 2024 and 2025.
 
 - *What hypothesis will be validated?*
 
-The hypothesis being validated is that presenting initial analyses and extracted data is sufficient to generate an initial understanding and guide the next steps of the project. Additionally, it validates that a centralized visualization of berthing metrics and cargo volume allows for the quick identification of the most productive ports and main navigation types.
+The hypothesis is that a consolidated dashboard—containing segmented analyses, efficiency metrics, DEA modeling, and operational stoppage insights—will enable the client to easily identify patterns, bottlenecks, and strategic opportunities in port logistics.
 
 - *What value will be delivered to the end user?*
 
-A clear and structured summary of preliminary analyses, enabling users to validate work progress and plan future actions. A monitoring tool highlighting a Total Volume of 2.75 Billion tons and activity across 220 active ports.
+The user will receive an interactive and intuitive dashboard with six structured analytical views:
 
+1. General Analysis
+2. Operational Efficiency
+3. Soybean Analysis
+4. Load Stops and Analysis
+5. Export
+6. Import
+   
+These visualizations allow for better strategic planning, improved understanding of port behavior, and more informed decision-making.
+   
 ---
 
 ## 🚚 Solution Description
-The interface focuses on four main pillars of data as seen in the prototype:
+Development of six interactive visualizations, each addressing a key analytical perspective:
 
-- Performance Metrics: Total volume (ton), total berthings (223k), and average operation time.
-- Temporal Analysis: A "Berthing per Month" graph comparing the years 2024 and 2025.
-- Market Segmentation: Breakdown of volume by "Navigation Type" (highlighting Long Haul and Cabotage) and by "Geographic Region".
-- Performance Ranking: Top 10 Ports by Volume, led by the Ponta da Madeira Maritime Terminal and the Port of Santos.
+1. Overall port movement and trends
+2. Behavior by job type
+3. Port efficiency analysis
+4. Main causes of operational stoppages
+   
+-Implementation of DEA (Data Envelopment Analysis) to measure port efficiency, using berthing time relative to transported cargo as the primary criterion.
+- Integration of the consolidated dataset into all visualizations.
+- Refinement of the dashboard layout to improve navigation and clarity.
+- Documentation of analytical processes and methodological choices.
+  
+Limitations:
+
+- Advanced comparative models and additional KPIs will be expanded in the next sprint.
+- Some parameters of the DEA model may require refinement after client feedback.
 
 ---
 
@@ -45,9 +64,9 @@ The interface focuses on four main pillars of data as seen in the prototype:
 ---
 
 ## 🚢 Next Steps
-- Refine the analyses based on the feedback received.
-- Refine the "Average Operation Time" metric to resolve visual overlaps in the interface.
-- Expand regional analysis to include state-level details within the North, South, Northeast, and Southeast regions.
+- Perform the final verification with the client to ensure the analyses and visualizations meet expectations.
+- Apply final improvements and refinements based on the client’s feedback.
+- Prepare all materials and visual outputs for the Solution Fair presentation, organizing the content clearly and professionally.
 
 ---
 
