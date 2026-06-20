@@ -82,7 +82,7 @@ Limitations:
 > TPresentation video created to showcase the product, demonstrate the dashboard’s features, and summarize the main activities developed throughout the project. And the Power BI dashboard for visualization.
 
 [Power BI](https://drive.google.com/file/d/12TuiBrh-0i4f_EgogIeyap-d8yAdba7E/view?usp=drive_link)
-[Presentation link](
+[Presentation link](https://youtu.be/Ov3cBAG9-GM)
   
 #### Initial code developed
 
