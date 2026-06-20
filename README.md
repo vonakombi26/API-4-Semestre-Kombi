@@ -59,8 +59,8 @@ This project seeks to conduct a comprehensive analysis of port data covering the
 | Sprint            | Forecast   | Status   | Historical |
 |-------------------|------------|----------|-----------|
 | 01                | 24/04/2026 | completed  | [MVP](MVP/Sprint1.md)  |
-| 02                | 15/05/2026  | completed  | [MVP](MVP/sp2.md)  |
-| 03                | 20/06/2026 | completed | [MVP](MVP/sp3.md)  |
+| 02                | 15/05/2026  | completed  | [MVP](MVP/Sprint2.md)  |
+| 03                | 20/06/2026 | completed | [MVP](MVP/Sprint3.md)  |
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=151515&section=footer&reversal=false&fontColor=black%20"/>
