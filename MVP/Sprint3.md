@@ -56,7 +56,7 @@ Limitations:
 
 ## 📊 Key Indicators (Visualized in Dashboard)
 | ID  | Indicators                                                                | metrics |
-|-----|-----------------------------------------------------------------------------|------------|------------|
+|-----|-----------------------------------------------------------------------------|------------|
 | Overview | Total Registered Stops:       | 453 Mil      |
 | Overview | Cargo Natures Tracked:  | 4     | 
 | Overview | Total Weight Handled: | 974.78 Bi      | 
